@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HostelFlow Attendance Pro",
+  "description": "A modern, automated student hostel attendance system featuring AI-powered analytics, occupancy tracking, and real-time attendance management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
